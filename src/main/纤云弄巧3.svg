@@ -1,0 +1,416 @@
+<svg
+
+        count="1" pages="100"
+        x="0px"
+        y="0px"
+        page_on="1"
+        width="400"
+        height="500"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg">
+
+    <rect
+            x="100"
+            y="100"
+            width="200"
+            height="300"
+            style="fill:none;stroke-width:8;stroke:rgb(255,0,0)"/>
+
+    <line
+            x1="250"
+            y1="100"
+            x2="250"
+            y2="400"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+    <line
+            x1="200"
+            y1="100"
+            x2="200"
+            y2="400"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+    <line
+            x1="150"
+            y1="100"
+            x2="150"
+            y2="400"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+
+    <text
+            x="275"
+            y="130"
+            id="1"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        纤
+    </text>
+    <text
+            x="275"
+            y="160"
+            id="2"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        云
+    </text>
+    <text
+            x="275"
+            y="190"
+            id="3"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        弄
+    </text>
+    <text
+            x="275"
+            y="220"
+            id="4"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        巧
+    </text>
+    <text
+            x="275"
+            y="250"
+            id="5"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        飞
+    </text>
+
+    <text
+            x="225"
+            y="130"
+            id="6"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        星
+    </text>
+    <text
+            x="225"
+            y="160"
+            id="7"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        传
+    </text>
+    <text
+            x="225"
+            y="190"
+            id="8"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        恨
+    </text>
+    <text
+            x="225"
+            y="220"
+            id="9"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        银
+    </text>
+    <text
+            x="225"
+            y="250"
+            id="10"
+            font-family="隶书"
+            font-size="30"
+            writing-mode='tb'>
+        汉
+    </text>
+</svg>
+<svg count="1" pages="100"
+     page_on = "2"
+     x="0px"
+     y="0px"
+     width="400"
+     height="500"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+
+<rect
+        x="100"
+        y="100"
+        width="200"
+        height="300"
+        style="fill:none;stroke-width:8;stroke:rgb(255,0,0)"/>
+
+<line
+        x1="250"
+        y1="100"
+        x2="250"
+        y2="400"
+        style="stroke:rgb(0,0,0);stroke-width:2"/>
+<line
+        x1="200"
+        y1="100"
+        x2="200"
+        y2="400"
+        style="stroke:rgb(0,0,0);stroke-width:2"/>
+<line
+        x1="150"
+        y1="100"
+        x2="150"
+        y2="400"
+        style="stroke:rgb(0,0,0);stroke-width:2"/>
+
+<text
+        x="170"
+        y="130"
+        id="11"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    迢
+</text>
+<text
+        x="170"
+        y="160"
+        id="12"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    迢
+</text>
+<text
+        x="170"
+        y="190"
+        id="13"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    暗
+</text>
+<text
+        x="170"
+        y="220"
+        id="14"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    度
+</text>
+<text
+        x="170"
+        y="250"
+        id="15"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    金
+</text>
+<text
+        x="125"
+        y="130"
+        id="16"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    风
+</text>
+<text
+        x="125"
+        y="160"
+        id="17"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    玉
+</text>
+<text
+        x="125"
+        y="190"
+        id="18"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    露
+</text>
+<text
+        x="125"
+        y="220"
+        id="19"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    一
+</text>
+<text
+        x="125"
+        y="250"
+        id="20"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    相
+</text>
+<text
+        x="125"
+        y="280"
+        id="21"
+        font-family="隶书"
+        font-size="30"
+        writing-mode='tb'>
+    逢
+</text>
+<style type="text/css">
+    #id_01 {fill:blue;}
+</style>
+</svg>
+
+<article id="1" type="1" version="1.0">
+    <head>
+        <title name="鹊桥仙·纤云弄巧" type="1"/>
+        <authors>
+            <author name="秦观" id="4" type="0"/>
+        </authors>
+        <book name="全宋词" id="3" type="1" volume="1" issue="1" start_page="100" end_page="100" pages="100">
+            <relation type="1"/>
+        </book>
+        <date>
+            <publish_date year="562" dynasty="宋朝"/>
+            <writing_date year="562" dynasty="宋朝"/>
+        </date>
+    </head>
+    <content page_mode="0">
+        <text>
+            <section>
+                <subsection>
+                    <paragraph>
+                        <sentence>
+                            <word>
+                                <char id="1">
+                                    纤
+                                </char>
+                            </word>
+                            <word>
+                                <char id="2">
+                                    云
+                                </char>
+                            </word>
+                            <word>
+                                <char id="3">
+                                    弄
+                                </char>
+                            </word>
+                            <word>
+                                <char id="4">
+                                    巧
+                                </char>
+                            </word>
+                        </sentence>
+                        <sentence>
+                            <word>
+                                <char id="5">
+                                    飞
+                                </char>
+                            </word>
+                            <word>
+                                <char id="6">
+                                    星
+                                </char>
+                            </word>
+                            <word>
+                                <char id="7">
+                                    传
+                                </char>
+                            </word>
+                            <word>
+                                <char id="8">
+                                    恨
+                                </char>
+                            </word>
+                        </sentence>
+                        <sentence>
+                            <word>
+                                <char id="9">
+                                    银
+                                </char>
+                            </word>
+                            <word>
+                                <char id="10">
+                                    汉
+                                </char>
+                            </word>
+                            <word>
+                                <char id="11">
+                                    迢
+                                </char>
+                                <char id="12">
+                                    迢
+                                </char>
+                                <word_note>
+                                    <char id="1">
+                                        很
+                                    </char>
+                                    <char id="2">
+                                        远
+                                    </char>
+                                </word_note>
+                            </word>
+                            <word>
+                                <char id="13">
+                                    暗
+                                </char>
+                            </word>
+                            <word>
+                                <char id="14">
+                                    度
+                                </char>
+                            </word>
+                        </sentence>
+                        <sentence>
+                            <word>
+                                <char id="15">
+                                    金
+                                </char>
+                            </word>
+                            <word>
+                                <char id="16">
+                                    风
+                                </char>
+                            </word>
+                            <word>
+                                <char id="17">
+                                    玉
+                                </char>
+                            </word>
+                            <word>
+                                <char id="18">
+                                    露
+                                </char>
+                            </word>
+                            <word>
+                                <char id="19">
+                                    一
+                                </char>
+                            </word>
+                            <word>
+                                <char id="20">
+                                    相
+                                </char>
+                            </word>
+                            <word>
+                                <char id="21">
+                                    逢
+                                </char>
+                            </word>
+                        </sentence>
+                    </paragraph>
+                </subsection>
+            </section>
+        </text>
+    </content>
+    <view>
+
+    </view>
+</article>
+
